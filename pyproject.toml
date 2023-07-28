@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "books"
-version = "0.1.1"
+version = "0.1.2"
 description = "A tool for making an inventory of a book collection"
 authors = ["Ben Steinberg <bsteinberg@law.harvard.edu>"]
 license = "GPL-3.0-or-later"
